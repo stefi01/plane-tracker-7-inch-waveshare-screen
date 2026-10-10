@@ -1,4 +1,4 @@
-# Home Field Scope
+# Home Field Scope - waveshare 7 inch screen
 
 Official firmware for the **Home Field Scope** 7 inch desk display sold on Etsy.
 
